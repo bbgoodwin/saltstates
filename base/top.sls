@@ -3,4 +3,3 @@ base:
 
   'mini*':
     - users
-    - apache
