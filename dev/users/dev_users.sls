@@ -1,4 +1,4 @@
-user_coco_curry:
+user_lawson:
   user.present:
     - name: lawson
     - fullname: Lawson
@@ -9,7 +9,7 @@ user_coco_curry:
     - groups:
       - wheel
 
-coco_curry_key:
+lawson_key:
   ssh_auth.present:
     - name: lawson
     - user: lawson
