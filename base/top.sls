@@ -1,4 +1,6 @@
-'*':
+base:
+  '*':
 
-'minion*':
+  'mini*':
+    - users
     - apache

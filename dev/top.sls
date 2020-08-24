@@ -1,0 +1,3 @@
+dev:
+  'mini*':
+    -users
