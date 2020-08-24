@@ -1,3 +1,3 @@
 dev:
   'mini*':
-    -users.dev_users
+    - users.dev_users
