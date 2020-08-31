@@ -1,1 +1,1 @@
-#Salt pillar for base
+#Salt pillar for dev

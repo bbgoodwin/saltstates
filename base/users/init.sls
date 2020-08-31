@@ -14,3 +14,5 @@ coco_curry_key:
     - name: coco.curry
     - user: coco.curry
     - source: salt://users/keys/coco.curry.pub
+
+{% for user, data in pillar.get('admin_user', {}).items()%}
